@@ -7,6 +7,8 @@ public class C01_main {
         System.out.println("Hola todos ");
 
         System.out.println("Merhaba");
+
+        System.out.println("Hej");
     }
 
 
