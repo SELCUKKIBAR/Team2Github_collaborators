@@ -5,6 +5,8 @@ public class C01_main {
         System.out.println("selçuk is coming");
 
         System.out.println("Hola todos ");
+
+        System.out.println("Merhaba");
     }
 
 
