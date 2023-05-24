@@ -1,8 +1,13 @@
 public class C01_main {
+
     public static void main(String[] args) {
 
-
         System.out.println("selçuk is coming");
+
+        System.out.println("Hola todos ");
+    }
+
+
         /*
 
 
@@ -17,5 +22,5 @@ git checkout username >>> username'in oldupğu local e geçiyor....
 
 
          */
-    }
+
 }
