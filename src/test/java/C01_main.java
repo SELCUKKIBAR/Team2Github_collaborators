@@ -1,12 +1,21 @@
 public class C01_main {
     public static void main(String[] args) {
+
+
+        System.out.println("selçuk is coming");
         /*
-        git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/SELCUKKIBAR/Team2Github_collaborators.git
-git push -u origin main
+
+
+
+git branch >>>>>> hangi brancteyiz
+
+git branch "username" >>>>>> username adında bir locak kullanıcı oluşturuyor
+
+git checkout username >>> username'in oldupğu local e geçiyor....
+
+
+
+
          */
     }
 }
