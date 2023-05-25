@@ -14,6 +14,8 @@ public class C01_main {
         System.out.println("Hello from Hatice");
         System.out.println("merhaba ben meryem");
 
+        System.out.println("vamos amigos");
+
     }
 
 
