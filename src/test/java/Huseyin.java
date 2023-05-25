@@ -4,5 +4,6 @@ public class Huseyin {
 
         System.out.println("konnichiha merhabalar huseyin");
         System.out.println("Real MAdrid");
+
     }
 }
